@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Api-Test-Jenkin</finalName>
+    <finalName>${artifactId}</finalName>
   </build>
 </project>
